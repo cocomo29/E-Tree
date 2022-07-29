@@ -1,7 +1,7 @@
 Did you know you can plant trees by doing nothing but opening a browser.
 
 # 🌳 How are trees planted
-Microsoft Edge rewards you points everyday if you visit [weather](https://www.msn.com/en-xl/weather/forecast/), you get 10+50+100+150+200+300+500 = 1300 points per week atleast (even if you dont complete any additional challenge). These points can then be used to plant tree.
+Microsoft Edge rewards you points everyday if you visit [weather](https://www.msn.com/en-xl/weather/forecast/), you get 10+50+100+150+200+300+500 = 1310 points per week atleast (even if you dont complete any additional challenge). These points can then be used to plant tree.
 
 Your tree is planted once you reach level 10 and for that you need 10,000 points, with your 1310 points per week this can be achieved in about 50 days.
 
